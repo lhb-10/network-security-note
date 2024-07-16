@@ -1,1 +1,80 @@
-# network-security-note
+# Network-security-note
+
+## Computer Networking
+
+> [!NOTE]
+>
+> OSI (7 Layer) and TCP/IP model
+
+### Summary
+### References 
+### Practice
+[Practice here ...]()
+
+## Swiching and Routing (Network and System Adminstration)
+> [!NOTE]
+>
+> Focus on Swiching and Routing Protocol
+>
+> Basic services in enterprise network (DNS, DHCP, ...)
+
+### Summary 
+
+### References 
+
+### Practice
+
+[Practice cisco lab - Packet tracer]()
+
+## Network Security
+> [!NOTE]
+>
+> Focus on network security protocol
+>
+> Cryptography, PKI, ...
+
+## Network Security Solution/Architecture
+> [!NOTE]
+>
+> Standards for implement network security in enterprise
+>
+> Solution/Architecture
+
+## Network Penetration Testing
+
+> [!NOTE]
+>
+> Network penetration testing phrases
+>
+> Network penetration testing tool 
+>
+> Attack network/ network protocol techniques
+>
+> ...
+
+
+## Network Defense
+
+## Network Monitoring
+
+## Threat Intelligence
+
+> [!NOTE]
+>
+> Threat Intelligence
+>
+> Practice Threat Intelligence
+>
+> Techiques, ...
+
+## Draft
+
+- Computer networking
+- Swiching and Routing (Network and System Administration)
+- Network Security
+- Network Security Solution/Architecture
+- Network Penetration Testing
+- Network Defense
+- Network Monitoring
+- Threat Intelligence
+- ...
