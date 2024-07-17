@@ -52,6 +52,24 @@
 >
 > ...
 
+### Network Security Strategies
+- [ ] Top Network Threat
+- [ ] Network Penetration Testing
+- [ ] Network Attack
+- [ ] Network Digital Forensics
+- [ ] Network Audit
+- [ ] Threat Management
+- [ ] Vulnerability Assessments
+
+### Network Penetration Testing 
+
+- [ ] Pre-engagement
+- [ ] Reconnaissance
+- [ ] Threat modeling
+- [ ] Exploitation
+- [ ] Post-exploitation
+- [ ] Reporting
+- [ ] Retesting
 
 ## Network Defense
 
