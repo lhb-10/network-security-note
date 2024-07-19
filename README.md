@@ -76,12 +76,47 @@
 >
 > Cryptography, PKI, ...
 
+* MAC_ARP
+* IP_ICMP
+* Sniffing and Spoofing
+* UDP
+* TCP
+* Firewall
+* VPN
+* DNS
+* Tunneling
+* DNSSEC
+* BGP
+* Heartbleed
+* Reverse Shell
+* Packet Sniffing Spoofing
+* TCP Attack
+* DNS Attack
+
+### Summary 
+
+### References 
+
+### Practices
+* Seed Lab
+
 ## Network Security Solution/Architecture
 > [!NOTE]
 >
 > Standards for implement network security in enterprise
 >
 > Solution/Architecture
+
+* Software-defined storage - Ceph
+* OpenShift
+* OpenStack
+* ELK Stacks
+* KVM
+* Redis - MySQL
+* Snort - IDS
+* OSSEC - IDS
+* PfSense
+* SIEM
 
 ## Network Penetration Testing
 
