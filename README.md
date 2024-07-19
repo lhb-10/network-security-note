@@ -37,6 +37,7 @@
 
 ### References 
 * https://blog.smartbuildingsacademy.com/what-is-the-osi-model
+* Computer Networking: A Top Down Approach
 ### Practice
 [Practice here ...]()
 
@@ -61,7 +62,7 @@
 
 ### References 
 * CCNA volume 1/2
-
+* https://itexamanswers.net/
 ### Practice
 
 [Practice cisco lab - Packet tracer]()
