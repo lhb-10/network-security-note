@@ -47,14 +47,27 @@
 >
 > Basic services in enterprise network (DNS, DHCP, ...)
 
+* IPv4/IPv6
+* Routing/Routing Protocol
+* ACL
+* NAT
+* Switch
+* STP
+* VLAN
+* DNS
+* DHCP
+* AD
 ### Summary 
 
 ### References 
+* CCNA volume 1/2
 
 ### Practice
 
 [Practice cisco lab - Packet tracer]()
 
+* Services deploy in Linux
+* Services deploy in Windows
 ## Network Security
 > [!NOTE]
 >
