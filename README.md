@@ -6,8 +6,37 @@
 >
 > OSI (7 Layer) and TCP/IP model
 
+### Application Layer
+* HTTP
+* FTP
+* SMTP, POP3, IMAP
+* DNS
+
+### Presentation Layer
+* SSL
+* TLS
+* JPEG
+### Session Layer
+* 
+
+### Transport Layer
+* TCP
+* UDP
+### Network Layer
+* IP
+* ARP
+* ICMP
+* IPSec
+### Link Layer
+* PPP
+* Ethernet
+
 ### Summary
+
+![image](https://github.com/user-attachments/assets/22447b4b-55e6-405b-932b-44f0c2ab2837)
+
 ### References 
+* https://blog.smartbuildingsacademy.com/what-is-the-osi-model
 ### Practice
 [Practice here ...]()
 
