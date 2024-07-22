@@ -5,7 +5,7 @@
 > [!NOTE]
 >
 > OSI (7 Layer) and TCP/IP model
-
+![](Image/OSI_and_TCP_IP_Models.png)
 ### Application Layer
 * HTTP
 * FTP
