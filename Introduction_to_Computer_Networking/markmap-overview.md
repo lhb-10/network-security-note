@@ -1,0 +1,77 @@
+<!-- # Markmap overview: Computer networking -->
+
+- Application layer
+  - Protocols in Application Layer
+    - TELNET
+    - FTP
+    - TFTP
+    - NFS
+    - SMTP
+    - LPD
+    - X window
+    - SNMP
+    - DNS
+    - DHCP
+    - HTTP/HTTPS
+    - POP/POP3
+    - IRC
+    - MIME
+  - Simple Mail Transfer Protocol (SMTP)
+  - DNS
+    - DNS (Domain Name Server)
+    - DNS: UDP/TCP
+    - Address Resolution in DNS
+    - DNS Spoofing or DNS Cache poisoning
+    - Types of DNS Attacks and Tactics for Security
+  - HTTP/HTTPs
+    - What’s difference between http:// and https:// ?
+    - HTTP Non-Persistent & Persistent Connection 
+  - File Transfer Protocol (FTP)
+  - DHCP
+    - Dynamic Host Configuration Protocol (DHCP)
+    - DHCP Relay Agent
+    - How DHCP server dynamically assigns IP address to a host?
+  - SNMP
+  - MIME
+- Transport Layer
+  - TCP
+    - TCP Connection Establishment
+    - TCP 3-Way Handshake Process
+    - TCP Timers
+    - TCP Connection Termination
+    - TCP Sequence Number 
+    - TCP Congestion Control
+    - TCP flags
+    - Services and Segment structure
+    - TCP Server-Client implementation in C
+  - UDP
+  - P2P(Peer To Peer) File Sharing
+- Network Layer
+  - IP Addressing
+  - IP v4
+    - IPv4 classless Subnet equation
+    - Ipv4 Datagram Fragmentation and Delays
+    - Fragmentation at Network Layer
+  - IP v6
+    - Internet Protocol version 6 (IPv6) Header
+    - Differences between IPv4 and IPv6
+  - Internet Control Message Protocol (ICMP) 
+  - Routing v/s Routed Protocols
+    - Fixed and Flooding Routing algorithms
+    - Classes of routing protocols
+    - RIP
+    - EIGRP
+    - OSPF
+  - Types of Spanning Tree Protocol (STP)
+  - Network address translation (NAT)
+  - ARP, Reverse ARP(RARP), Inverse ARP(InARP), Proxy ARP and Gratuitous ARP
+  - Access-lists (ACL)
+  - RADIUS
+  - TACACS+
+- Data-Link Layer  
+  - Local Area Network (LAN) Technologies.
+  - Internetworking
+  - MAC addressing
+  - Virtual LAN (VLAN)
+  - Ethernet
+  - IEEE 802.11

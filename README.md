@@ -5,32 +5,35 @@
 > [!NOTE]
 >
 > OSI (7 Layer) and TCP/IP model
+
+
 ![](Image/OSI_and_TCP_IP_Models.png)
-### Application Layer
-* HTTP
-* FTP
-* SMTP, POP3, IMAP
-* DNS
+* Application Layer
+  * HTTP
+  * FTP
+  * SMTP, POP3, IMAP
+  * DNS
+  * ...
 
-### Presentation Layer
-* SSL
-* TLS
-* JPEG
-### Session Layer
-* 
+* Presentation Layer
+  * SSL
+  * TLS
+  * JPEG
+  * ...
+* Session Layer
+  *... 
 
-### Transport Layer
-* TCP
-* UDP
-### Network Layer
-* IP
-* ARP
-* ICMP
-* IPSec
-### Link Layer
-* PPP
-* Ethernet
-
+* Transport Layer
+  * TCP
+  * UDP
+* Network Layer
+  * IP
+  * ARP
+  * ICMP
+  * IPSec
+* Link Layer
+  * PPP
+  * Ethernet
 ### Summary
 
 ![image](https://github.com/user-attachments/assets/22447b4b-55e6-405b-932b-44f0c2ab2837)
@@ -174,3 +177,8 @@
 - Network Monitoring
 - Threat Intelligence
 - ...
+
+## Projects 
+* Socket programming projects
+    * Create client and server
+    * Message exchanges
