@@ -1,0 +1,140 @@
+- IP Addressing
+  - IPv4 Network Addresses
+    - IPv4 Address Structure
+    - The Subnet Mask
+    - Logical AND
+    - The Prefix Length
+    - Network, Host, and Broadcast Addresses
+    - Static IPv4 Address Assignment to a Host
+    - Dynamic IPv4 Address Assignment to a Host
+    - IPv4 Communication
+    - Unicast Transmission
+    - Broadcast Transmission
+    - Multicast Transmission
+    - Types of IPv4 Addresses
+      - Public and Private IPv4 Addresses
+      - Special User IPv4 Addresses
+      - Legacy Classful Addressing
+      - Classless Addressing
+      - Assignment of IP Addresses
+  - IPv6 Network Addresses
+    - IPv4 and IPv6 Coexistence
+    - IPv6 Address Representation
+    - Rule 1 – Omit Leading 0s
+    - Rule 2 – Omit All 0 Segments
+    - IPv6 Address Types
+    - IPv6 Prefix Length
+    - IPv6 Unicast Addresses
+    - IPv6 Link-Local Unicast Addresses
+    - Structure of an IPv6 Global Unicast Address
+    - Static Configuration of a Global Unicast Address
+    - Dynamic Configuration – SLAAC
+    - Dynamic Configuration – DHCPv6
+    - EUI-64 Process and Randomly Generated
+    - Dynamic Link-Local Addresses
+    - Static Link-Local Addresses
+    - Verifying IPv6 Address Configuration
+    -  Assigned IPv6 Multicast Addresses
+  - Connectivity Verification
+    - ping and traceroute
+    - ICMP
+    - ICMPv4 and ICMPv6
+    - ICMPv6 Router Solicitation and Router Advertisement Messages
+    - Ping – Testing the Local Stack
+    - Ping – Testing Connectivity to the Local LAN
+    - Ping – Testing Connectivity to a Remote Host
+    - Traceroute – Testing the Path
+  - Subnetting IP Networks 
+- Switching
+  - Switched Networks
+  - Switch Configuration
+- Routing
+  - Routing Concepts
+  - Static Routing
+  - Dynamic Routing
+- VLANs 
+  - VLAN Segmentation
+    - Overview of VLANs
+      - VLAN Definitions
+      - Benefits of VLANs
+      - Types of VLANs
+      - Voice VLANs
+    - VLANs in a Multi-Switched Environment
+      -  VLAN Trunks
+      -  Controlling Broadcast Domains with VLANs
+      -  Tagging Ethernet Frames for VLAN Identification
+      -  Native VLANs and 802.1Q Tagging
+      -  Voice VLAN Tagging
+  - VLAN Implementations
+    - VLAN Assignment
+      -  VLAN Ranges on Catalyst Switches
+      -  Creating a VLAN
+      -  Assigning Ports to VLANs   
+      -  Changing VLAN Port Membership
+      -  Deleting VLANs
+      -  Verifying VLAN Information
+    - VLAN Trunks
+      - Configuring IEEE 802.1q Trunk Links
+      - Resetting the Trunk to Default State
+      - Verifying Trunk Configuration 
+    -  Troubleshoot VLANs and Trunks
+       -  IP Addressing Issues with VLANs
+       -  Missing VLANs
+       -   Introduction to Troubleshooting Trunks
+       -   Common Problems with Trunks
+       -    Incorrect Port Mode
+       -    Incorrect VLAN List 
+  - Inter-VLAN Routing Using Routers
+    - Inter-VLAN Routing Operation
+    - Configure Legacy Inter-VLAN Routing
+- Access Control Lists
+  - ACL Operation
+    - Purpose of ACLs
+    - Wildcard masks in ACLs
+    - Guideline for ACL Creation
+    - Guideline for ACL Placement
+  - Standard IPv4 ACLs
+    - Configure Standard IPv4 ACLs
+    - Modify IPv4 ACLs
+    - Securing VTY ports a Standard IPv4 ACLs
+  - Troubleshoot ACL
+- DHCP
+  - DHCPv4
+    - DHCPv4 Operation 
+    - Configuring a Basic DHCPv4 Server
+    - Configure DHCPv4 Client
+    - ...
+  - DHCPv6
+    - SLAAC and HDCPv6
+    - Stateless DHCPv6
+    - Stateful DHCPv6 Server 
+- Network Address Translation for IPv4
+  - NAT Operation
+    - NAT Characteristics
+    - Types of NAT
+    - NAT Advantages
+  - Configure NAT
+    - Configuring Static NAT
+    - Configure Dynamic NAT
+    - Configure PAT
+    - Configure Port Forwarding
+    - NAT and IPv6
+- Device Discovery, Management, and Maintenance
+- System
+  - Linux
+    - Ubuntu
+    - CentOS
+    - Kali Linux
+  - Windows
+    - Windows Server
+    - ...
+  - Firewall
+  - ... 
+- References
+  - CCNA
+    - v1: Introduction network
+    - v2: Switching and routing
+    - v3: Scaling Networks
+    - v4: Connecting Networks
+  - CCNA security
+  - CCNACybersecurity Operations
