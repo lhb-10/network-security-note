@@ -61,6 +61,12 @@
 * DNS
 * DHCP
 * AD
+* Active Directory and Group Policy 
+*	File Server and Web Server 
+*	Virtualization 
+*	Container 
+*	Cloud 
+
 ### Summary 
 
 ### References 
@@ -80,6 +86,19 @@
 > Focus on network security protocol
 >
 > Cryptography, PKI, ...
+
+* Modern Network Security Threats
+* Securing Network Devices
+* Authentication, Authorization, and Accounting
+* Firewall Technologies
+* Intrusion Prevention
+* Securing the Local Area Network
+* Cryptographic Systems
+* Virtual Private Networks
+* Cisco Adaptive Security Appliance (ASA)
+* Managing a Secure Network
+
+
 
 * MAC_ARP
 * IP_ICMP
@@ -122,6 +141,26 @@
 * OSSEC - IDS
 * PfSense
 * SIEM
+* OpenVAS
+* OpenVPN
+* WSUS
+* Suid
+* K8s+security
+* KVM
+* Cuckoo Sandbox
+* Proxy+WAF
+* DBF 
+* NGFW 
+* WAF
+* NIPS 
+* Database Security 
+* Next Gen Threat Prevention 
+* Endpoint Security 
+* AMP 
+* SIEM 
+* Protocol Security 
+* Steganography
+
 
 ## Network Penetration Testing
 
@@ -168,19 +207,13 @@
 >
 > Techiques, ...
 
-## Draft
+## Zero Trusts Networks
 
-- Computer networking
-- Swiching and Routing (Network and System Administration)
-- Network Security
-- Network Security Solution/Architecture
-- Network Penetration Testing
-- Network Defense
-- Network Monitoring
-- Threat Intelligence
-- ...
+
+
 
 ## Projects 
 * Socket programming projects
     * Create client and server
     * Message exchanges
+* 
